@@ -1,2 +1,4 @@
 # color
-Identifying top colors from an image.
+Identifying top 5 colors from an image(A rangoli design made and clicked by me).
+First imported required libraries, Then defined functions to convert from rgb to hex and hex to names.
+Showed the top 5 colors in form of pie chart with names of colors as labels.
